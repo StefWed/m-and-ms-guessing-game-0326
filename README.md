@@ -15,4 +15,4 @@ solving the entire problem, which is not the idea here.
 
 ## Start
 
-The example starts with just the initialization/ definition of the function. After that use the issues plus labels to move forward.
+The entire game is broken down into minimal steps and for each step, an issue will be created on GitHub. It's starts as easy as setting up the main function with a print statement.
