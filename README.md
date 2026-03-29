@@ -4,7 +4,7 @@ The goal is to give participants experience with collaboration using Git.
 
 An M&Ms guessing game will be coded, here a short intro:
 
-Imagine a coffe shop and the owner wants to start a small initiative - some gamification where one can win a free coffee plus a piece of cake. 
+Imagine a coffee shop and the owner wants to start a small initiative - some gamification where one can win a free coffee plus a piece of cake. 
 So they prepare a jar with between 100 - 200 normal sized M&Ms (the owner knows the number) and the idea is that each client has five guesses to get the number of M&Ms correctly. 
 
 
@@ -17,8 +17,8 @@ solving the entire problem, which is not the idea here.
 
 The entire game is broken down into minimal steps and for each step, an issue will be created on GitHub. It's starts as easy as setting up the main function with a print statement.
 
-1) Pick an issue (0also called ticket in certain environments)
-   * Assign youself to the issue:
+1) Pick an issue (also called ticket in certain environments)
+   * Assign yourself to the issue:
        * On the right-hand side of the issue > Assignees
    * Optional: You can label it In Progress if you want to use labels to track status
 
@@ -28,7 +28,7 @@ The entire game is broken down into minimal steps and for each step, an issue wi
    (others: bugfix/, refactor/, ...)
 
 3) Make changes and Commit
-   Update the file ralted to the issue, keep it as minimal as reqiested.
+   Update the file related to the issue, keep it as minimal as requested.
    Commit your changes and write a commit message according to issue/ ticket on GitHub (this is convention!)
 
 4) Push the branch and open a pull request
