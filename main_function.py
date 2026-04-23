@@ -5,3 +5,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# I created a new branch test/write-test-get-start-message
